@@ -104,8 +104,7 @@ session_start();
 
 	
 	?>
-<center>	<b>Meno: admin</b><br>
-	<b>Heslo: admin</b></center>
+<center>
 	<form class="login-window__login-form" method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>">
         <div class="login-form__title">Ovládanie relé</div>	
         <input id="username" name="username" placeholder="Užívateľské meno" type="text" class="login-form__username" autocorrect="off" autocapitalize="off" spellcheck="false" required>
