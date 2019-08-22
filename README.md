@@ -4,6 +4,7 @@
 * Relé sú aktívne v nastavenom čase vo web rozhraní vo všetkých dňoch počas týždňa.
 * Ovládanie až 16 relé výstupov s centrálnou webaplikáciou, možno použiť jedno/dve Arduiná
 * Login systém s možnosťou zmeny mena a hesla
+#
 **Hardvér pre projekt:**
 * <img src="https://www.arduino-board.com/images/thumbs/mega2560.jpg" width="64" height="64"> Arduino Mega 2560
 * <img src="https://images.ua.prom.st/553985637_w128_h128_cid2424009_pid346622822-69b058aa.jpg" width="64" height="64"> Ethernet W5100
