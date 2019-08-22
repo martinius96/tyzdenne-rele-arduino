@@ -18,6 +18,7 @@
 * Upraviť Arduino program (dostupný vo web rozhraní) na svoju doménu, umiestnenie súborov v rámci priečinka s projektom
 * Prípadne možno použiť testovacie webové rozhranie na ktoré je Arduino program nastavený https://arduino.php5.sk/rele2/
 * Prihlasovacie meno a heslo **admin**
+* Arduino sa pripája do webového rozhrania raz za 5 minút, kedy načíta a aplikuje všetky stavy pre relé
 # Screenshoty
 <img src="https://i.imgur.com/luH290O.png" style="display: block; max-width: 100%; height: auto;" alt="Týždenné relé cez Arduino - webaplikácia" title="Týždenné relé cez Arduino - webaplikácia">
 <img src="https://i.imgur.com/nsZmsoF.png" style="display: block; max-width: 100%; height: auto;" alt="Týždenné relé cez Arduino - webaplikácia" title="Týždenné relé cez Arduino - webaplikácia">
