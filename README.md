@@ -11,6 +11,8 @@
 * <img src="https://www.arduino-board.com/images/thumbs/mega2560.jpg" width="64" height="64"> Arduino Mega 2560
 * <img src="https://images.ua.prom.st/553985637_w128_h128_cid2424009_pid346622822-69b058aa.jpg" width="64" height="64"> Ethernet W5100
 * <img src="https://tshop.r10s.com/52a/df7/aedb/26ae/5056/dc90/08e7/11c2e7bc142c600c737637.jpg?_ex=128x128" width="64" height="64"> 16 kanálové relé (10A pri 230V max)
+# Podporte projekt
+* https://www.paypal.me/chlebovec
 #
 **Inštalácia systému**
 * Stiahnuť repozitár
